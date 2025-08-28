@@ -1,1 +1,0 @@
-# Tonconnect-manifest.json
